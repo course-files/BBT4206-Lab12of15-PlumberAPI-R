@@ -76,7 +76,7 @@ The chosen algorithm is then used to train the model. Knowledge is represented i
 
 -   *Lab10-EnsembleMethods.R*
 
--   [*Lab11-SavingtheModel.R*](Lab11-SavingtheModel.R)
+-   *Lab11-SavingtheModel.R*
 
 ## Step 8: Interpretation and Evaluation
 
@@ -88,7 +88,7 @@ This involves operationalizing the knowledge discovered by integrating it into a
 
 -   [*BI Project Section 15 and Section 16*](https://docs.google.com/document/d/1Ay1VaAjd9JzQJ5JnkPHZLvtDRNAWrc5RYCPo1bvxgBU/edit?usp=sharing)
 
--   *Lab12-Plumber-API.R*
+-   [*Lab12-PlumberAPI.R*](Lab12-PlumberAPI.R)
 
 -   *Lab13-Run-Plumber-API.R*
 
