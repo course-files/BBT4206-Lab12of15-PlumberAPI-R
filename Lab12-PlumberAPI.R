@@ -119,6 +119,14 @@ if (require("plumber")) {
                    repos = "https://cloud.r-project.org")
 }
 
+## caret ----
+if (require("caret")) {
+  require("caret")
+} else {
+  install.packages("caret", dependencies = TRUE,
+                   repos = "https://cloud.r-project.org")
+}
+
 # Create a REST API using Plumber ----
 # REST API stands for Representational State Transfer Application Programming
 # Interface. It is an architectural style and a set of guidelines for building
