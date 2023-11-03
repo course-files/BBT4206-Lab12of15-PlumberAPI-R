@@ -1,5 +1,5 @@
 # *****************************************************************************
-# Lab 11: Plumber API ----
+# Lab 12: Plumber API ----
 #
 # Course Code: BBT4206
 # Course Name: Business Intelligence II
